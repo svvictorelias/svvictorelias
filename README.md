@@ -1,4 +1,4 @@
-## Olá! Eu sou Victor Elias. Trabalhando Front-end!
+## Olá! Eu sou Victor Elias. Trabalhando com Front-end | Conhecimento em Infraestrutura e BI | Vertentes generalistas em automação com Python. Estou me especializando na área de Full-Stack, iniciando pelo Front-End
 <div align="center">
   <a href="https://www.linkedin.com/in/svvictorelias/" target="_blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=svvictorelias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
