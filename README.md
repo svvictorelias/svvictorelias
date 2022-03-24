@@ -1,4 +1,4 @@
-## Olá! Eu sou Victor Elias. Trabalhando Front-end!
+## Olá! Eu sou Victor Elias. Trabalhando Front-end! Conhecimento em Infraestrutura | Amplo conhecimento na área de T.I
 <div align="center">
   <a href="https://www.linkedin.com/in/svvictorelias/" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svvictorelias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
