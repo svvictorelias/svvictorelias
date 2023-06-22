@@ -59,7 +59,6 @@ Linguagens & Tecnologias: `Linux`, `Server`, `Vmware`, `Database`, `Office 365`,
 
 <div align="center">
   <a href="https://www.linkedin.com/in/svvictorelias/" target="_blank">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=svvictorelias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svvictorelias&layout=compact&langs_count=7&theme=github_dark&locale=pt-br"/>
 </div>
 
