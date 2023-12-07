@@ -7,7 +7,7 @@ Desenvolvedor FullStack apaixonado por conhecer fluxos de negócios para soluç�
 Experiências mais recentes:
 
 
-[<img  style="margin-right: 15px;" align="left" height="98PX"  width="98PX" alt="E-digital" src="https://media.licdn.com/dms/image/D4D0BAQGOhaMPs15StQ/company-logo_200_200/0/1680528459897?e=1701907200&v=beta&t=eCl6WetKdVp78Ji1jjIyy17t18Deb9PckOAbTYGgl5Q"/>](https://www.edigitalfullcommerce.com.br/)
+[<img  style="margin-right: 15px;" align="left" height="98PX"  width="98PX" alt="E-digital" src="https://media.licdn.com/dms/image/D4D0BAQGOhaMPs15StQ/company-logo_200_200/0/1680528460687?e=1709769600&v=beta&t=Z4XNl3SwNd-VtAVmRVZitzz90qvFNCoZlxM8dRCcd6Q"/>](https://www.edigitalfullcommerce.com.br/)
 
 **Desenvolvedor full stack** \
 [**e-Digital**](https://www.edigitalfullcommerce.com.br/) • Tempo Integral \
@@ -19,7 +19,7 @@ gerenciamento de servidores.
 
 Linguagens & Tecnologias: `React`, `Node`, `Javascript`, `Typescript`, `Postgres`, `Rabbitmq`, `Docker`, `Microsserviços`, `Sql`, `API REST`, `AWS`, `RDS`, `EC2`, `Elastic Beanstalk`, `Crons`, `Git`, `Github`, `Axios`, `Prisma`, `JWT`, `Context` \
 <br/>
-[<img  style="margin-right: 15px;" align="left" height="98PX"  width="98PX" alt="Grupo Seven" src="https://media.licdn.com/dms/image/D4D0BAQHgSiQ_39O9Rw/company-logo_200_200/0/1689003744121?e=1701907200&v=beta&t=3KXYLa1NyX65Zp8VhkE7hsBb6rBM1SoVy6ALDkTh_X4"/>](https://gruposeven.app/)
+[<img  style="margin-right: 15px;" align="left" height="98PX"  width="98PX" alt="Grupo Seven" src="https://media.licdn.com/dms/image/D4D0BAQHgSiQ_39O9Rw/company-logo_200_200/0/1689003745136/grupogomespires_logo?e=1709769600&v=beta&t=TFkS2Inmy0IG1e1rLyYnTEpn_2jDKURwg0ShokzALYw"/>](https://gruposeven.app/)
 
 **Desenvolvedor full stack** \
 [**Grupo Seven**](https://gruposeven.app/) • Tempo Integral \
@@ -29,7 +29,7 @@ Criação e sustentação de sistema frontEnd, backEnd e mobile utilizando react
 Linguagens & Tecnologias: `React`, `Node`, `Javascript`, `Typescript`, `Sql`, `API REST`, `AWS`, `RDS`, `EC2`, `Elastic Beanstalk`, `Crons`, `Git`, `Github`, `Axios`, `Prisma`, `JWT`, `Context` \
 <br/>
 
-[<img  style="margin-right: 15px;" align="left" height="98PX"  width="98PX" alt="Empresa São Gonçalo" src="https://media.licdn.com/dms/image/C4D0BAQHP0LM-GfKW7w/company-logo_200_200/0/1523372417214?e=1701907200&v=beta&t=KFpKbpL9KkXLjibs_pEFJp5Z0WkBv0JaLtcDKgcVCxE"/>](https://www.empsaogoncalo.com/)
+[<img  style="margin-right: 15px;" align="left" height="98PX"  width="98PX" alt="Empresa São Gonçalo" src="https://media.licdn.com/dms/image/C4D0BAQHP0LM-GfKW7w/company-logo_200_200/0/1631356505385/saogoncalo_logo?e=1709769600&v=beta&t=KGOCGanMCATn80pfu34Ab9-vjZIwz2pM6ovLR-Pq7GE"/>](https://www.empsaogoncalo.com/)
 
 **Analista de infraestrutura** \
 [**Empresa São Gonçalo LTDA**](https://www.empsaogoncalo.com/) • Tempo Integral \
